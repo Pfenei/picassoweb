@@ -1,0 +1,97 @@
+html, body{
+    height: 100%;
+}
+.navbar {
+    background-color: #29488c;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.indexp, .authorp {
+    margin: 15px -15px 10px -15px;
+    background-color: #e1edf8;
+    padding: 10px 25px 10px 25px;
+}
+
+.formrow1 {
+    padding-top: 50px;
+}
+
+.main {
+    background-color: #456ec5;
+    padding: 0% 15% 0 15%;
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-image: url(https://creativesystemsthinking.files.wordpress.com/2014/02/1374916_640233719341794_1919964338_n.jpg);
+    background-size: cover;
+}
+
+.jumbolead {
+    margin: 0 20% 0 20%;
+}
+
+h2 {
+    background-color: #e1edf8;
+    margin: 30px -15px 30px -15px;
+    padding: 10px 0 10px 0;
+}
+
+p, h1, h3, .col {
+    background-color: #e1edf8;
+}
+
+.aboutcol, .lastcol {
+    margin-bottom: 150px;
+}
+
+.row {
+    background-color: #e1edf8;
+    padding-bottom: 15px!important;
+}
+
+.form-container {
+    padding: 0!important;
+}
+
+body {
+    background-color: #456ec5;
+}
+
+img {
+    width: 100%;
+}
+
+.aboutimg {
+    height: 66%;
+}
+
+.contactform {
+    margin-top: 30px;
+}
+.bottomrow{
+    margin-bottom: 5%;
+}
+.footer {
+    background-color: #c4d7ff;
+    width: 100%;
+    position: relative;
+    display: grid;
+    grid: auto;
+    min-height: 25px;
+    line-height: 50px;
+    clear: both;
+    margin-top: 130px;
+}
+.carousel-main {
+    padding: 0 15% 0 15%;
+    margin-top: 50px;
+}
+
+.carousel-mov {
+    width: 50px;
+}
